@@ -3,7 +3,7 @@
 <picture>
   <!-- 深色模式 -->
   <source
-    srcset="https://enc-euphony.vercel.app/api?username=pynickle&show_icons=true&icon_color=A0A0A0&title_color=A0A0A0&text_color=FFFFFF&theme=dark"
+    srcset="https://enc.euphony.ink/api?username=pynickle&show_icons=true&icon_color=A0A0A0&title_color=A0A0A0&text_color=FFFFFF&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <!-- 浅色模式 -->
@@ -19,7 +19,7 @@
 <picture>
   <!-- 深色模式 -->
   <source
-    srcset="https://enc-euphony.vercel.app/api/wakatime?username=pynickle&langs_count=30&layout=compact&icon_color=A0A0A0&title_color=A0A0A0&text_color=FFFFFF&theme=dark"
+    srcset="https://enc.euphony.ink/api/wakatime?username=pynickle&langs_count=30&layout=compact&icon_color=A0A0A0&title_color=A0A0A0&text_color=FFFFFF&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <!-- 浅色模式 -->
