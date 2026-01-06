@@ -14,7 +14,7 @@
   <img src="https://enc-euphony.vercel.app/api?username=pynickle&show_icons=true&icon_color=4A4A4A&title_color=616161&text_color=1F2328&border_color=000000&theme=transparent" />
 </picture>
 
-## Waka Time
+## Waka Time 
 
 <picture>
   <!-- 深色模式 -->
