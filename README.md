@@ -2,7 +2,7 @@
 
 <picture>
   <!-- 深色模式 -->
-  <source
+  <source 
     srcset="https://enc.euphony.ink/api?username=pynickle&show_icons=true&icon_color=A0A0A0&title_color=A0A0A0&text_color=FFFFFF&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
