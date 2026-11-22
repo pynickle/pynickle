@@ -44,4 +44,9 @@
 | --- | --- |
 | [pynickle](https://github.com/pynickle/pynickle) | Profile README with a daily space shooter game |
 
+## Links
+
+- [GitHub](https://github.com/pynickle)
+- [GitHub Stats](https://ghstats.euphony.ink)
+
 ##
