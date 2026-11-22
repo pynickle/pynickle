@@ -1,5 +1,9 @@
 ## Enchanting Euphony ~
 
+> A quiet corner of GitHub, where I keep my stats and a tiny space shooter.
+
+> Currently exploring native stacked pull requests on GitHub.
+
 <picture>
   <!-- 深色模式 -->
   <source
@@ -33,5 +37,10 @@
 ## Space Shooter
 
 ![My GitHub Game](game.gif)
+
+## Projects
+
+| Project | Description |
+| --- | --- |
 
 ##
