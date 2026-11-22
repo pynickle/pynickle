@@ -1,9 +1,5 @@
 ## Enchanting Euphony ~
 
-> A quiet corner of GitHub, where I keep my stats and a tiny space shooter.
-
-> Currently exploring native stacked pull requests on GitHub.
-
 <picture>
   <!-- 深色模式 -->
   <source
@@ -37,11 +33,5 @@
 ## Space Shooter
 
 ![My GitHub Game](game.gif)
-
-## Projects
-
-| Project | Description |
-| --- | --- |
-| [pynickle](https://github.com/pynickle/pynickle) | Profile README with a daily space shooter game |
 
 ##
