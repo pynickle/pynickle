@@ -1,5 +1,7 @@
 ## Enchanting Euphony ~
 
+> A quiet corner of GitHub, where I keep my stats and a tiny space shooter.
+
 <picture>
   <!-- 深色模式 -->
   <source
