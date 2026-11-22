@@ -42,5 +42,6 @@
 
 | Project | Description |
 | --- | --- |
+| [pynickle](https://github.com/pynickle/pynickle) | Profile README with a daily space shooter game |
 
 ##
